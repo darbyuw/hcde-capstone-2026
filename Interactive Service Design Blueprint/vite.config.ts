@@ -33,5 +33,5 @@ export default defineConfig({
 
   // File types to support raw imports. Never add .css, .tsx, or .ts files to this.
   assetsInclude: ['**/*.svg', '**/*.csv'],
-  base: '/hcde-capstone-2026/Interactive Service Design Blueprint',
+  base: '/hcde-capstone-2026/',
 })
